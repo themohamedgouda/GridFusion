@@ -139,7 +139,7 @@ span, p {
   line-height: 30px;
 }
 .right-side4 a {
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: #27b9c2;
   font-weight: bold;
   text-decoration: none;
@@ -372,7 +372,7 @@ span, p {
     "child8 child9"
     "child10 child10";
   }
-  .child1, .child2, .child3, .child4, .child5, .child6, .child7, .child8, .child9, .child10 {
+  .child2, .child3,  .child5, .child6, .child8, .child9, .child10 {
     padding: 10px;  
   }
 }
@@ -394,7 +394,7 @@ span, p {
     "child9"
     "child10";
   }
-  .child1, .child2, .child3, .child4, .child5, .child6, .child7, .child8, .child9, .child10 {
+  .child2, .child3,  .child5, .child6, .child8, .child9, .child10 {
     padding: 10px;
   }
 }
