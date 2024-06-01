@@ -373,7 +373,7 @@ span, p {
     "child10 child10";
   }
   .child1, .child2, .child3, .child4, .child5, .child6, .child7, .child8, .child9, .child10 {
-    margin: 10px;
+    padding: 10px;  
   }
 }
 
@@ -395,6 +395,6 @@ span, p {
     "child10";
   }
   .child1, .child2, .child3, .child4, .child5, .child6, .child7, .child8, .child9, .child10 {
-    margin: 10px;
+    padding: 10px;
   }
 }
